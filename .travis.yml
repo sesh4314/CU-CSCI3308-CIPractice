@@ -1,4 +1,3 @@
 language: c
-before_install: sudo  apt-get install check
-install: true
+install: make dep
 target: all
