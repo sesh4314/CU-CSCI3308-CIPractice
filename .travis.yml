@@ -1,4 +1,3 @@
 language: c
 install: check
-target: 
-	- test
+target: all
