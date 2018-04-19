@@ -1,4 +1,6 @@
 sudo: required
 language: c
 install: make dep
+script: make && make test
 target: all
+
