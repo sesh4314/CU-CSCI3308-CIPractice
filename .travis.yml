@@ -1,1 +1,4 @@
 language: c
+install: check
+target: 
+	- test
